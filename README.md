@@ -2,7 +2,7 @@
 
 A Diceroller App that has 8 different dices that each has a different range of values that they can give out, along with a - (Subtract) and + (Add) button to either decrease or increase the total value of the dice result.
 Each dice has a button shown as a picture for aesthetic purposes with a text to show the highest number the individual dice can roll. In this project i have made use of 2 different Functions, a Random number Generator, and a counter to add or remove from the Total Value of the dice roll.
- List of Widgets used in this project:
+* List of Widgets used in this project:
 
 
 
